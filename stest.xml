@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<testsuites>
+   <testsuite
+     tests     ="1"
+     failures  ="0"
+     id        ="001"
+     name      ="Tests for buidling a database"
+     package   ="macros/jobExample_test.sas"
+     time      ="2.43700"
+     timestamp ="2017-09-07T12:20:46"
+   >
+      <testcase
+        classname ="jobExample.sas"
+        name      ="Check if Table is create"
+        time      ="0.10900"
+        timestamp ="2017-09-07T12:20:47"
+        id        ="001-001"
+       />
+   </testsuite>
+</testsuites>
